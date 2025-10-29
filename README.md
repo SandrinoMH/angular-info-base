@@ -12,7 +12,7 @@
 ---
 
 ## ✅ Pré-requis
-- [ ] Maîtriser JavaScript (ES6+) et les notions de base de TypeScript
+- [x] Maîtriser JavaScript (ES6+) et les notions de base de TypeScript
 - [ ] Connaître HTML & CSS
 - [ ] Node.js installé (v14+) et npm/yarn
 - [ ] éditeur : VS Code recommandé
