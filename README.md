@@ -14,34 +14,34 @@
 ## ✅ Pré-requis
 - [x] Maîtriser JavaScript (ES6+) et les notions de base de TypeScript
 - [x] Connaître HTML & CSS
-- [ ] Node.js installé (v14+) et npm/yarn
-- [ ] éditeur : VS Code recommandé
+- [x] Node.js installé (v14+) et npm/yarn
+- [x] éditeur : VS Code recommandé
 
 ---
 
 # Module 1 — Fondations & CLI
 **Objectif** : connaître l'outil et créer des projets Angular.
 
-- [ ] Installer Angular CLI (`npm i -g @angular/cli`)
-- [ ] Créer une app : `ng new my-app --routing --style=scss`
-- [ ] Lancer en dev : `ng serve`
-- [ ] Générer composants / services / modules : `ng generate component|service|module` ou `ng g c` etc.
-- [ ] Builder en prod : `ng build --configuration production`
+- [x] Installer Angular CLI (`npm i -g @angular/cli`)
+- [x] Créer une app : `ng new my-app --routing --style=scss`
+- [x] Lancer en dev : `ng serve`
+- [x] Générer composants / services / modules : `ng generate component|service|module` ou `ng g c` etc.
+- [x] Builder en prod : `ng build --configuration production`
 
 **Exercices**
-- [ ] Créer une app mini To-do avec 2 components (list & add)
-- [ ] Explorer les options de `ng new` et `ng serve`
+- [x] Créer une app mini To-do avec 2 components (list & add)
+- [x] Explorer les options de `ng new` et `ng serve`
 
 ---
 
 # Module 2 — Composants & Templates
 **Objectif** : maîtriser le cœur d'Angular.
 
-- [ ] Créer et organiser des composants
-- [ ] Data binding : interpolation, property binding `[]`, event binding `()`, two-way `[()]`
-- [ ] Structural directives : `*ngIf`, `*ngFor` (utiliser `trackBy`)
-- [ ] Attribute directives et `ngClass`, `ngStyle`
-- [ ] `ng-template` et `TemplateRef`
+- [x] Créer et organiser des composants
+- [x] Data binding : interpolation, property binding `[]`, event binding `()`, two-way `[()]`
+- [x] Structural directives : `*ngIf`, `*ngFor` (utiliser `trackBy`)
+- [x] Attribute directives et `ngClass`, `ngStyle`
+- [x] `ng-template` et `TemplateRef`
 
 **Exercices**
 - [ ] Construire une liste paginée (ngFor + trackBy)
